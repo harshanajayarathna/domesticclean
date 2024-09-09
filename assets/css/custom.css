@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins';
+}
+
+nav {
+    background-color: #5271ff !important;
+}
+
+.navbar-brand{
+    font-size: x-large;
+}
+.nav-link {
+    font-size: large;
+}
+
+.btn-outline-primary :hover {
+    background-color: #5271ff !important;
+
+}
+
+
+
